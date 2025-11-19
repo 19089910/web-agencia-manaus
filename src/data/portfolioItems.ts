@@ -20,7 +20,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     id: 3,
     title: "E-commerce ShinerayAmazonas",
-    category: "Landing Page",
+    category: "E-commerce",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1752036044/pagina_final_bqjzb7.webp",
     link: "https://shinerayamazonas.com.br/",
@@ -42,6 +42,14 @@ export const portfolioItems: PortfolioItem[] = [
     link: "#",
   },
   {
+    id: 10,
+    title: "TARE SHUSHI Delivery",
+    category: "Landing Page",
+    imageUrl:
+      "https://res.cloudinary.com/dms5ua8nm/image/upload/v1756422962/pagina_si1yqh.webp",
+    link: "#",
+  },
+  {
     id: 6,
     title: "NIBGC",
     category: "Evento",
@@ -49,14 +57,7 @@ export const portfolioItems: PortfolioItem[] = [
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1756409953/imagem_final_ep4qta.webp",
     link: "https://aventuradosbrinquedos.vercel.app",
   },
-  {
-    id: 7,
-    title: "Açougue Rio Negro",
-    category: "e-commerce",
-    imageUrl:
-      "https://res.cloudinary.com/dms5ua8nm/image/upload/v1757363947/pagina_pxbisa.webp",
-    link: "#",
-  },
+
   {
     id: 8,
     title: "Smart Solar",
@@ -73,12 +74,13 @@ export const portfolioItems: PortfolioItem[] = [
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1756421758/pagina_fhdbba.webp",
     link: "#",
   },
+
   {
-    id: 10,
-    title: "TARE SHUSHI Delivery",
-    category: "Landing Page",
+    id: 7,
+    title: "Açougue Rio Negro",
+    category: "e-commerce",
     imageUrl:
-      "https://res.cloudinary.com/dms5ua8nm/image/upload/v1756422962/pagina_si1yqh.webp",
+      "https://res.cloudinary.com/dms5ua8nm/image/upload/v1757363947/pagina_pxbisa.webp",
     link: "#",
   },
 ];
