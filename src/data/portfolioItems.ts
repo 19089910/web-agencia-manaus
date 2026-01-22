@@ -7,7 +7,23 @@ export const portfolioItems: PortfolioItem[] = [
     category: "Portfolio",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1756411019/imagem_final_tdtkpd.webp",
-    link: "https://portfolio-lucas-barbosa-five.vercel.app",
+    link: "https://portfolio-lucas-barbosa-ferreira.vercel.app",
+  },
+  {
+    id: 12,
+    title: "NIBGC",
+    category: "Evento",
+    imageUrl:
+      "https://res.cloudinary.com/dms5ua8nm/image/upload/v1769051099/imagem_final_yjaibh.webp",
+    link: "https://natal.nibgrandecircular.com/",
+  },
+  {
+    id: 11,
+    title: "novadenovo",
+    category: "Institucional",
+    imageUrl:
+      "https://res.cloudinary.com/dms5ua8nm/image/upload/v1769052608/imagem_final_bxlnuf.webp",
+    link: "https://www.novadenovomanaus.com.br/",
   },
   {
     id: 2,
@@ -23,7 +39,7 @@ export const portfolioItems: PortfolioItem[] = [
     category: "E-commerce",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1752036044/pagina_final_bqjzb7.webp",
-    link: "https://shinerayamazonas.com.br/",
+    link: "#", //https://shinerayamazonas.com.br/
   },
   {
     id: 4,
