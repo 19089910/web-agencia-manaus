@@ -145,7 +145,7 @@ const SaasProducts: React.FC = () => {
                       )}
 
                       {product.demoUrl && (
-                        <Button variant="outline" asChild>
+                        <Button asChild className="bg-white text-black hover:bg-gray-200">
                           <a
                             href={product.demoUrl}
                             target="_blank"
