@@ -4,7 +4,8 @@ export type SaasProductId =
   | "ecommerce"
   | "reservation"
   | "school"
-  | "doctor";
+  | "doctor"
+  | "barber";
 
 export interface SaasFeature {
   title: string;

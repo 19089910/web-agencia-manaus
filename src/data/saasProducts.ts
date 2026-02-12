@@ -4,9 +4,50 @@ import {
   School,
   Calendar,
   Stethoscope,
+  Scissors,
 } from "lucide-react";
 
 export const saasProducts: SaasProduct[] = [
+    {
+      id: "barber",
+      icon: Scissors,
+      title: "FSW Barber PRO — O Sistema Operacional das Barbearias de Elite",
+      shortTitle: "Barber PRO",
+      description:
+        "O ecossistema de gestão nº 1 para barbearias modernas. Agendamento premium, controle total dos barbeiros e ferramentas de fidelização para escalar seu negócio com eficiência.",
+      features: [
+        {
+          title: "Catálogo de Serviços Personalizado",
+          description:
+            "Gerencie serviços como cabelo, barba e tratamentos com preços, descrições e imagens atrativas",
+        },
+        {
+          title: "Agendamento 24/7 Inteligente",
+          description:
+            "Clientes agendam sozinhos a qualquer hora, com prevenção automática de conflitos de horário",
+        },
+        {
+          title: "Perfis Profissionais & Marca",
+          description:
+            "Página exclusiva da barbearia com endereço, avaliações, galeria de fotos e contatos",
+        },
+        {
+          title: "Fidelização & Histórico de Clientes",
+          description:
+            "Acompanhe agendamentos passados, favoritos, avaliações e mantenha clientes recorrentes",
+        },
+        {
+          title: "Infraestrutura Premium",
+          description:
+            "Sistema rápido em Next.js, design mobile-first e segurança de nível profissional",
+        },
+      ],
+      imageUrl:
+        "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&q=80&w=1740",
+      isPopular: true,
+      // saibaMaisUrl: "/barber",
+      demoUrl: "https://barbearia.webmanaus.com.br",
+    },
     {
     id: "doctor",
     icon: Stethoscope,
