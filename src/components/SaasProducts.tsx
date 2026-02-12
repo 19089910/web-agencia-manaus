@@ -29,8 +29,8 @@ const SaasProducts: React.FC = () => {
             className="
               grid
               grid-cols-2
-              sm:grid-cols-3
-              lg:grid-cols-4
+              md:grid-cols-3
+              lg:grid-cols-5
               gap-2
               mb-12
               bg-agency-dark

@@ -43,7 +43,7 @@ export const saasProducts: SaasProduct[] = [
         },
       ],
       imageUrl:
-        "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&q=80&w=1740",
+        "https://res.cloudinary.com/dms5ua8nm/image/upload/f_auto,q_auto,w_1740/Capa_1_wmhjjl.png",
       isPopular: true,
       // saibaMaisUrl: "/barber",
       demoUrl: "https://barbearia.webmanaus.com.br",
@@ -78,8 +78,7 @@ export const saasProducts: SaasProduct[] = [
       },
     ],
     imageUrl:
-      "https://images.unsplash.com/photo-1580281657527-47f249e8f6f9?auto=format&fit=crop&q=80&w=1740",
-    isPopular: true,
+      "https://res.cloudinary.com/dms5ua8nm/image/upload/f_auto,q_auto,w_1740/Capa_fwpbpn.png",
     // saibaMaisUrl: "/doutor",
     demoUrl: "https://doutor.webmanaus.com.br",
   },
@@ -107,8 +106,9 @@ export const saasProducts: SaasProduct[] = [
       },
     ],
     imageUrl:
-      "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&q=80&w=1740",
+     "https://res.cloudinary.com/dms5ua8nm/image/upload/f_auto,q_auto,w_1740/imagem_2025-11-17_132051733_jvfnje.png",
     isPopular: true,
+    demoUrl: "https://project-code-burger-frontend.vercel.app/login",
   },
   {
     id: "reservation",
@@ -136,6 +136,7 @@ export const saasProducts: SaasProduct[] = [
     ],
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1763400053/reservaAssentosHome.7fd26c43e26bba263159_vh3vrc.png",
+    demoUrl: "https://frontend-reserva-assentos-nib.vercel.app",
   },
   {
     id: "school",
@@ -162,6 +163,7 @@ export const saasProducts: SaasProduct[] = [
       },
     ],
     imageUrl:
-      "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&q=80&w=1740",
+      "https://res.cloudinary.com/dms5ua8nm/image/upload/f_auto,q_auto,w_1740/04d87397-962a-4bc5-896b-1267ad8f4637.png",
+    demoUrl: "https://eduspce.vercel.app",
   },
 ];
