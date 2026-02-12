@@ -19,6 +19,7 @@ export interface SaasProduct {
   features: SaasFeature[];
   imageUrl: string;
   isPopular?: boolean;
+  shortTitle?: string;
   saibaMaisUrl?: string;
   demoUrl?: string;
 }

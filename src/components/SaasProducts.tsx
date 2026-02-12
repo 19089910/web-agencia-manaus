@@ -77,7 +77,7 @@ const SaasProducts: React.FC = () => {
                       max-w-full
                     "
                   >
-                    {product.title.split(" — ")[0]}
+                    {product.shortTitle || product.title}
                   </span>
                 </TabsTrigger>
               );

@@ -11,6 +11,7 @@ export const saasProducts: SaasProduct[] = [
     id: "doctor",
     icon: Stethoscope,
     title: "Doutor Agenda - Gestão Inteligente para Clínicas",
+    shortTitle: "Doutor Agenda",
     description:
       "O sistema de gestão nº 1 para clínicas modernas. Controle múltiplos especialistas, agendas complexas e o relacionamento com pacientes em uma plataforma rápida, segura e pronta para escalar.",
     features: [
@@ -45,6 +46,7 @@ export const saasProducts: SaasProduct[] = [
     id: "ecommerce",
     icon: Store,
     title: "Plataforma de E-commerce Completa",
+    shortTitle: "E-commerce",
     description:
       "Uma solução completa para vender produtos online, gerenciar estoque, processar pagamentos e entregar uma experiência de compra excepcional aos seus clientes.",
     features: [
@@ -71,6 +73,7 @@ export const saasProducts: SaasProduct[] = [
     id: "reservation",
     icon: Calendar,
     title: "Sistema de Reserva de Assentos",
+    shortTitle: "Reserva de Assentos",
     description:
       "Solução ideal para cinemas, teatros, eventos e transportes que precisam de um sistema eficiente de reservas e venda de ingressos online.",
     features: [
@@ -97,6 +100,7 @@ export const saasProducts: SaasProduct[] = [
     id: "school",
     icon: School,
     title: "Sistema de Gestão Escolar",
+    shortTitle: "Gestão Escolar",
     description:
       "Uma plataforma completa para instituições de ensino gerenciarem alunos, professores, notas, frequência, financeiro e comunicação.",
     features: [
