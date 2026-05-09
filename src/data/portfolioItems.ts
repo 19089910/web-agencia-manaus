@@ -15,7 +15,7 @@ export const portfolioItems: PortfolioItem[] = [
     category: "Evento",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1769051099/imagem_final_yjaibh.webp",
-    link: "https://natal.nibgrandecircular.com/",
+    link: "nibshow-2025-natal-factory-dream.vercel.app",
   },
   {
     id: 11,
@@ -31,7 +31,7 @@ export const portfolioItems: PortfolioItem[] = [
     category: "Evento",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1763399641/pagina_fdbmta.webp",
-    link: "https://aladdin.nibgrandecircular.com/",
+    link: "lampada-da-verdade.vercel.app",
   },
   {
     id: 3,
