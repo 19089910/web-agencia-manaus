@@ -39,7 +39,7 @@ export const portfolioItems: PortfolioItem[] = [
     category: "E-commerce",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1752036044/pagina_final_bqjzb7.webp",
-    link: "#", //https://shinerayamazonas.com.br/
+    link: "/https://shinerayamazonas.com.br/", //https://shinerayamazonas.com.br/
   },
   {
     id: 4,
@@ -47,7 +47,7 @@ export const portfolioItems: PortfolioItem[] = [
     category: "Evento",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1752254305/pagina_final_elp9ju.webp",
-    link: "#",
+    link: "https://vivapascoa.nibgc.com.br",
   },
   {
     id: 5,
