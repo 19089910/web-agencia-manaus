@@ -31,7 +31,7 @@ export const portfolioItems: PortfolioItem[] = [
     category: "Evento",
     imageUrl:
       "https://res.cloudinary.com/dms5ua8nm/image/upload/v1763399641/pagina_fdbmta.webp",
-    link: "lampada-da-verdade.vercel.app",
+    link: "https://aladim.nibgrandecircular.com.br/",
   },
   {
     id: 3,
